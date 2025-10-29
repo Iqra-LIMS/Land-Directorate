@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Land Directorate</title>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="Main.css" />
+</head>
+<body>
+  <header>Land Directorate</header>
+  <div id="map"></div>
+
+    <!-- ✅ Analysis Button -->
+  <button id="analysisBtn">Start Analysis</button>
+
+  <div id="legend">
+    <h3>KMZ Area Summary</h3>
+    <p id="totalArea"><strong>Total Area:</strong> 0 km²</p>
+    <ul id="legendList"></ul>
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <!-- JSZip for KMZ unzip -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+  <!-- togeojson for KML->GeoJSON -->
+  <script src="https://unpkg.com/togeojson@0.16.0"></script>
+  <!-- Turf.js for area calculation -->
+  <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6.5.0/turf.min.js"></script>
+
+  <!-- Main JS -->
+  <script src="Main.js"></script>
+
+<script src="analysis.js"></script>
+</body>
+</html>
