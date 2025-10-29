@@ -301,42 +301,48 @@ function getWeatherTable(weather) {
 
   let html = `
     <h5>🌦️ 16-Day Weather Forecast</h5>
-    <table class="data-table weather-table">
-      <tr>
-        <th>Date</th>
-        <th>Condition</th>
-        <th>Temp (°C)</th>
-        <th>Rain (%)</th>
-      </tr>
+    <div class="weather-grid">
   `;
 
   list.forEach(day => {
-    const date = new Date(day.dt * 1000).toLocaleDateString("en-GB", { day: "2-digit", month: "short" });
+    const date = new Date(day.dt * 1000);
+    const dayName = date.toLocaleDateString("en-US", { weekday: "short" });
+    const shortDate = date.toLocaleDateString("en-GB", { day: "2-digit", month: "short" });
     const desc = day.weather?.[0]?.description || "N/A";
-    const icon = getWeatherIcon(desc);
+    const icon = day.weather?.[0]?.icon
+      ? `https://openweathermap.org/img/wn/${day.weather[0].icon}@2x.png`
+      : "";
     const temp = day.temp?.day ?? "-";
     const rainChance = day.pop !== undefined ? (day.pop * 100).toFixed(0) : (day.rain ? "100" : "0");
 
-    // background colors based on temp
-    let bgColor = "#dff9fb";
-    if (temp >= 35) bgColor = "#f9ca24";
-    else if (temp >= 25) bgColor = "#badc58";
-    else if (temp >= 15) bgColor = "#7ed6df";
-    else bgColor = "#c7ecee";
+    // Temperature-based color gradient
+    let tempColor;
+   if (temp <= 10)
+  tempColor = "linear-gradient(135deg, #c2e9fb, #a1c4fd)"; // ❄️ Cool blue sky
+else if (temp <= 20)
+  tempColor = "linear-gradient(135deg, #d4fc79, #96e6a1)"; // 🌿 Mild spring green
+else if (temp <= 30)
+  tempColor = "linear-gradient(135deg, #fff6b7, #f6416c)"; // 🌤 Warm sunny yellow-pink
+else
+  tempColor = "linear-gradient(135deg, #fdd9a0, #f8b195)"; // ☀️ Hot soft orange-pink
+
 
     html += `
-      <tr style="background-color:${bgColor}33">
-        <td>${date}</td>
-        <td>${icon} ${desc}</td>
-        <td><b>${temp}°</b></td>
-        <td>${rainChance}%</td>
-      </tr>
+      <div class="weather-card" style="background: ${tempColor}">
+        <div class="weather-date">${dayName}<br><small>${shortDate}</small></div>
+        <img src="${icon}" alt="${desc}">
+        <div class="weather-temp"><b>${temp}°C</b></div>
+        <div class="weather-desc">${desc}</div>
+        <div class="weather-rain">💧 ${rainChance}%</div>
+      </div>
     `;
   });
 
-  html += "</table>";
+  html += `</div>`;
   return html;
 }
+
+
 
 
 // ------------------ MAIN ANALYSIS ------------------
