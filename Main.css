@@ -137,96 +137,64 @@ header {
   gap: 12px;
 }
 
+/* 🌦️ Two-Row Weather Grid Styles */
+.weather-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  grid-gap: 8px;
+  justify-items: center;
+  margin-top: 12px;
+  max-width: 100%;
+}
+
+/* Make exactly 2 rows if 16 items */
+@media (min-width: 768px) {
+  .weather-grid {
+    grid-template-columns: repeat(8, 1fr);
+  }
+}
+
 .weather-card {
-  display: inline-block;
-  width: 110px;
-  background: #f7f9fb;
-  border-radius: 10px;
+  width: 100px;
+  padding: 8px;
+  border-radius: 16px;
   text-align: center;
-  padding: 10px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  transition: transform 0.2s ease;
+  color: #333;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .weather-card:hover {
-  transform: translateY(-3px);
+  transform: translateY(-5px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.15);
 }
 
 .weather-card img {
-  width: 50px;
-  height: 50px;
+  width: 48px;
+  height: 48px;
+  margin: 6px 0;
 }
 
 .weather-date {
-  font-weight: 600;
-  color: #333;
-  margin-bottom: 5px;
+  font-size: 13px;
+  font-weight: 500;
 }
 
 .weather-temp {
   font-size: 18px;
-  color: #1e88e5;
-  margin: 5px 0;
+  margin: 4px 0;
+  font-weight: 600;
 }
 
 .weather-desc {
   font-size: 12px;
-  color: #555;
+  text-transform: capitalize;
 }
 
 .weather-rain {
   font-size: 12px;
-  color: #00796b;
   margin-top: 4px;
-}
-
-/* 🌦️ Two-Row Weather Grid Styles */
-.weather-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-  grid-auto-rows: auto;
-  gap: 12px;
-  padding: 10px 0;
-  margin-bottom: 15px;
-}
-
-.weather-card {
-  color: #333;
-  border-radius: 14px;
-  padding: 10px;
-  text-align: center;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  border: 1px solid rgba(255,255,255,0.5);
-}
-
-
-.weather-card:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-}
-
-.weather-card img {
-  width: 50px;
-  height: 50px;
-  margin: 5px 0;
-}
-
-.weather-date {
-  font-weight: 600;
-  font-size: 14px;
-  color: #000000;
-}
-
-.weather-temp {
-  font-size: 20px;
-  font-weight: bold;
-  margin: 5px 0;
-}
-
-.weather-desc,
-.weather-rain {
-  font-size: 12px;
-  color: #000000;
+  color: #1565c0;
 }
 
 
@@ -251,7 +219,7 @@ header {
   position: relative;
   background: white;
   border-radius: 12px;
-  width: 90%;
+  width: 100%;
   max-width: 1000px;
   padding: 16px;
   z-index: 10;

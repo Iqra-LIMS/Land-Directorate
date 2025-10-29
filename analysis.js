@@ -316,16 +316,24 @@ function getWeatherTable(weather) {
     const rainChance = day.pop !== undefined ? (day.pop * 100).toFixed(0) : (day.rain ? "100" : "0");
 
     // Temperature-based color gradient
-    let tempColor;
-   if (temp <= 10)
-  tempColor = "linear-gradient(135deg, #c2e9fb, #a1c4fd)"; // ❄️ Cool blue sky
-else if (temp <= 20)
-  tempColor = "linear-gradient(135deg, #d4fc79, #96e6a1)"; // 🌿 Mild spring green
-else if (temp <= 30)
-  tempColor = "linear-gradient(135deg, #fff6b7, #f6416c)"; // 🌤 Warm sunny yellow-pink
-else
-  tempColor = "linear-gradient(135deg, #fdd9a0, #f8b195)"; // ☀️ Hot soft orange-pink
+let tempColor = "";
 
+if (temp < 0)
+  tempColor = "linear-gradient(135deg, #e0f7fa, #b2ebf2)"; // ❄️ Very Cold — icy blue
+else if (temp >= 0 && temp < 10)
+  tempColor = "linear-gradient(135deg, #bbdefb, #cfd8dc)"; // 🌦 Cold — soft sky blue-gray
+else if (temp >= 10 && temp < 20)
+  tempColor = "linear-gradient(135deg, #c8e6c9, #a5d6a7)"; // 🌿 Mild — pastel green
+else if (temp >= 20 && temp < 30)
+  tempColor = "linear-gradient(135deg, #fff9c4, #ffe082)"; // 🌤 Warm — soft yellow
+else if (temp >= 30 && temp < 40)
+  tempColor = "linear-gradient(135deg, #ffe0b2, #ffccbc)"; // ☀️ Hot — light peach
+else
+  tempColor = "linear-gradient(135deg, #ffcccb, #f8bbd0)"; // 🔥 Very Hot — warm pinkish tone
+
+const rainHtml = parseFloat(rainChance) > 0
+  ? `<div class="weather-rain">💧 ${rainChance}%</div>`
+  : "";
 
     html += `
       <div class="weather-card" style="background: ${tempColor}">
@@ -333,7 +341,8 @@ else
         <img src="${icon}" alt="${desc}">
         <div class="weather-temp"><b>${temp}°C</b></div>
         <div class="weather-desc">${desc}</div>
-        <div class="weather-rain">💧 ${rainChance}%</div>
+        ${rainHtml}
+
       </div>
     `;
   });
