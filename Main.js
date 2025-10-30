@@ -20,6 +20,28 @@ fetch("Data/pak_boundary.geojson")
     map.fitBounds(boundaryLayer.getBounds());
   });
 
+  let cultivationData = {};
+
+async function loadCultivationData(filePath) {
+  const response = await fetch(filePath);
+  const arrayBuffer = await response.arrayBuffer();
+  const workbook = XLSX.read(arrayBuffer, { type: "array" });
+  const sheet = workbook.Sheets[workbook.SheetNames[0]];
+  const jsonData = XLSX.utils.sheet_to_json(sheet);
+
+  // Create a lookup { Name: CultivationArea }
+  cultivationData = {};
+  jsonData.forEach(row => {
+    if (row.Name) {
+      cultivationData[row.Name.trim().toLowerCase()] = parseFloat(row["Cultivation Area"]) || 0;
+    }
+  });
+
+  console.log("✅ Cultivation Data Loaded:", cultivationData);
+}
+
+
+
 // KMZ + KML file list
 const mapFiles = [
   "Data/KMZ/chappu Cp1.kmz",
@@ -35,6 +57,8 @@ const mapFiles = [
   "Data/KMZ/CP Valley 1.kmz",
   "Data/KMZ/CP Valley 2.kmz",
 ];
+ loadCultivationData("Data/kmz.xlsx");
+
 
 // Distinct colors
 const colors = [
@@ -49,7 +73,7 @@ const totalAreaEl = document.getElementById("totalArea");
 // Create a global feature group to fit all polygons together
 const allLayers = L.featureGroup().addTo(map);
 
-// Main loader (auto-detect KMZ or KML)
+
 
 
 // keep a global reference of layers
@@ -126,6 +150,8 @@ async function loadMapFile(filePath, color) {
 
     // --- Create map layer ---
     const name = filePath.split("/").pop().replace(/\.(kmz|kml)$/i, "");
+    const matchedCultivationArea = cultivationData[name.trim().toLowerCase()] || 0;
+
     const layer = L.geoJSON(polygonGeoJSON, {
       style: {
         color,
@@ -137,8 +163,8 @@ async function loadMapFile(filePath, color) {
       onEachFeature: (feature, lyr) => {
         lyr.bindPopup(`
           <b>${name}</b><br>
-          Area: ${areaKm2.toFixed(2)} km²<br>
-          ≈ ${areaAcres.toFixed(2)} acres
+          Area:  ≈ ${areaAcres.toFixed(2)} acres<br>
+          Cultivation Area: ≈${matchedCultivationArea.toFixed(2)} acres
         `);
              // 👇 Zoom to this KMZ when user clicks it on the map
         lyr.on("click", () => {
@@ -162,20 +188,23 @@ async function loadMapFile(filePath, color) {
 
     // --- Add legend entry ---
     const li = document.createElement("li");
+
     li.innerHTML = `
       <span class="legend-color" style="background:${color}"></span>
-      <span class="legend-name" style="cursor:pointer;"><strong>${name}= </strong></span> ${areaKm2.toFixed(2)} km² (≈${areaAcres.toFixed(2)} acres)
+      <span class="legend-name" style="cursor:pointer;"><strong>${name}</strong> <strong>Area:</strong>(≈${areaAcres.toFixed(2)} acres)</span>
+      <span><strong>Cultivation Area:</strong> (≈${matchedCultivationArea.toFixed(4)} acres)</span>
+
     `;
     legendList.appendChild(li);
 
     // --- Zoom to KMZ when legend clicked ---
     const legendName = li.querySelector(".legend-name");
     legendName.addEventListener("click", () => {
-        const center = turf.center(polygonGeoJSON).geometry.coordinates;
+    const center = turf.center(polygonGeoJSON).geometry.coordinates;
     console.log(`📍 Center of ${name}:`, center);
+    map.flyToBounds(layer.getBounds(), { duration: 1.5 });
+    layer.eachLayer(l => l.openPopup());
 
-      map.flyToBounds(layer.getBounds(), { duration: 1.5 });
-      layer.eachLayer(l => l.openPopup());
     });
 
     // --- Hover highlight ---
@@ -256,11 +285,68 @@ function handleLayerSelection(layer, name) {
 }
 
 // When “Start Analysis” is clicked
-analysisBtn.addEventListener("click", () => {
+// analysisBtn.addEventListener("click", () => {
+//   const lat = parseFloat(analysisBtn.dataset.lat);
+//   const lon = parseFloat(analysisBtn.dataset.lon);
+//   const kmzName = analysisBtn.dataset.name;
+
+//   runAnalysis(lat, lon, kmzName, map);
+// });
+
+
+// --- Create a temporary loading modal ---
+function showLoadingModal(message = "🔍 Analysis Started...") {
+  const existing = document.getElementById("loadingModal");
+  if (existing) existing.remove();
+
+  const modal = document.createElement("div");
+  modal.id = "loadingModal";
+  modal.innerHTML = `
+    <div class="modal-overlay"></div>
+    <div class="loading-modal-content">
+      <div class="spinner"></div>
+      <h3>${message}</h3>
+    </div>
+  `;
+  document.body.appendChild(modal);
+}
+
+// --- Update loading message ---
+function updateLoadingMessage(newMsg) {
+  const modal = document.querySelector("#loadingModal h3");
+  if (modal) modal.textContent = newMsg;
+}
+
+// --- Remove loading modal ---
+function hideLoadingModal() {
+  const modal = document.getElementById("loadingModal");
+  if (modal) modal.remove();
+}
+
+// --- Modified click handler ---
+analysisBtn.addEventListener("click", async () => {
   const lat = parseFloat(analysisBtn.dataset.lat);
   const lon = parseFloat(analysisBtn.dataset.lon);
   const kmzName = analysisBtn.dataset.name;
 
-  runAnalysis(lat, lon, kmzName, map);
+  // Step 1: Show loading modal
+  showLoadingModal("🚀 Starting Analysis... Please wait");
+
+  try {
+    // Step 2: Run analysis
+    await runAnalysis(lat, lon, kmzName, map);
+
+    // Step 3: Show completion message
+    updateLoadingMessage("✅ Analysis Complete!");
+
+    // Step 4: Hold completion message for a second before closing
+    setTimeout(() => {
+      hideLoadingModal();
+    }, 1000);
+  } catch (err) {
+    console.error("❌ Error during analysis:", err);
+    updateLoadingMessage("❌ Analysis Failed. Please try again.");
+    setTimeout(() => hideLoadingModal(), 1500);
+  }
 });
 
