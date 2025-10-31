@@ -356,10 +356,60 @@ const rainHtml = parseFloat(rainChance) > 0
 
 // ------------------ MAIN ANALYSIS ------------------
 // --- MODAL CREATOR ---
-function showAnalysisModal(kmzName, lat, lon, weather, soil, water) {
-  // Remove old modal if exists
+// function showAnalysisModal(kmzName, lat, lon, weather, soil, water) {
+//   // Remove old modal if exists
+//   const old = document.getElementById("analysisModal");
+//   if (old) old.remove();
+
+//   const modal = document.createElement("div");
+//   modal.id = "analysisModal";
+//   modal.innerHTML = `
+//     <div class="modal-overlay"></div>
+//     <div class="modal-content">
+//       <div class="modal-header">
+//         <h3>📊 Analysis Result — ${kmzName}</h3>
+//         <button id="closeModalBtn">✖</button>
+//       </div>
+//       <div class="modal-body">
+//         <div class="modal-row">${getWeatherTable(weather)}</div>
+//         <div class="modal-row-2">
+//           <div class="half">${getSoilTable(soil)}</div>
+//           <div class="half">${getWaterTable(water)}</div>
+//         </div>
+//       </div>
+//       <div class="modal-footer">📍 ${lat.toFixed(4)}, ${lon.toFixed(4)}</div>
+//     </div>
+//   `;
+//   document.body.appendChild(modal);
+
+//   document.getElementById("closeModalBtn").onclick = () => modal.remove();
+//   document.querySelector(".modal-overlay").onclick = () => modal.remove();
+// }
+
+
+function showAnalysisModal(kmzName, lat, lon, weather, soil, water, images = []) {
   const old = document.getElementById("analysisModal");
   if (old) old.remove();
+
+  // Generate images HTML if available
+  let imagesHtml = "";
+  if (images.length > 0) {
+    imagesHtml = `
+      <h5>📸 Field Images</h5>
+      <div class="image-gallery">
+        ${images
+          .map(
+            (img, i) => `
+              <div class="image-card">
+                <img src="${img}" alt="Image ${i + 1}" />
+                <div class="image-index">#${i + 1}</div>
+              </div>
+            `
+          )
+          .join("")}
+      </div>
+    `;
+  }
 
   const modal = document.createElement("div");
   modal.id = "analysisModal";
@@ -376,6 +426,7 @@ function showAnalysisModal(kmzName, lat, lon, weather, soil, water) {
           <div class="half">${getSoilTable(soil)}</div>
           <div class="half">${getWaterTable(water)}</div>
         </div>
+        ${imagesHtml}
       </div>
       <div class="modal-footer">📍 ${lat.toFixed(4)}, ${lon.toFixed(4)}</div>
     </div>
@@ -386,18 +437,21 @@ function showAnalysisModal(kmzName, lat, lon, weather, soil, water) {
   document.querySelector(".modal-overlay").onclick = () => modal.remove();
 }
 
+
 // --- MAIN FUNCTION ---
-async function runAnalysis(lat, lon, kmzName, map) {
+async function runAnalysis(lat, lon, kmzName, map, images = []) {
   console.clear();
   console.log(`🚀 Running Analysis for: ${kmzName}`);
+
   const [weather, soil, water] = await Promise.all([
     fetchWeather(lat, lon),
     fetchSoil(lat, lon),
     fetchWater(lat, lon),
   ]);
 
-  showAnalysisModal(kmzName, lat, lon, weather, soil, water);
+  showAnalysisModal(kmzName, lat, lon, weather, soil, water, images);
 }
+
 
 // Export function
 window.runAnalysis = runAnalysis;

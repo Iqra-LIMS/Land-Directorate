@@ -257,8 +257,6 @@ analysisBtn.style.opacity = "0.5";
 analysisBtn.style.cursor = "not-allowed";
 
 let selectedLayer = null;
-let selectedPolygon = null; // ✅ will store selected polygon geometry
-
 
 // When KMZ clicked
 function handleLayerSelection(layer, name) {
@@ -274,9 +272,6 @@ function handleLayerSelection(layer, name) {
   const lat = center.lat;
   const lon = center.lng;
 
-  // ✅ Extract GeoJSON geometry of selected polygon
-  selectedPolygon = layer.toGeoJSON().geometry;
-
   analysisBtn.disabled = false;
   analysisBtn.style.opacity = "1";
   analysisBtn.style.cursor = "pointer";
@@ -285,97 +280,7 @@ function handleLayerSelection(layer, name) {
   analysisBtn.dataset.name = name;
 
   console.log(`📍 Selected ${name}:`, lat, lon);
-  console.log("🗺️ Polygon geometry:", selectedPolygon);
 }
-
-async function runProcessing() {
-  if (!selectedPolygon) {
-    throw new Error("⚠️ No polygon selected!");
-  }
-
-
-  // 🧩 Extract only lon/lat (remove the 3rd '0' value if present)
-  let formattedPolygon = [];
-
-  if (selectedPolygon.coordinates) {
-    // Handle GeoJSON-like polygon
-    formattedPolygon = selectedPolygon.coordinates[0].map(coord => [coord[0], coord[1]]);
-  } else if (Array.isArray(selectedPolygon)) {
-    // Already a simple array — just map to lon/lat
-    formattedPolygon = selectedPolygon.map(coord => [coord[0], coord[1]]);
-  } else {
-    throw new Error("❌ Invalid polygon format!");
-  }
-
-  const payload = {
-    polygon: formattedPolygon,
-  };
-
-  console.log("📦 Payload for /run-processing:", payload);
-
-  const statusEl = document.getElementById("status");
-  if (statusEl) statusEl.innerHTML = "⏳ Processing satellite images... please wait";
-
-  try {
-    const response = await fetch("https://ui.ngrok.pro/run-processing", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "ngrok-skip-browser-warning": "true", // ✅ added here
-      },
-      body: JSON.stringify(payload),
-    });
-
-    if (!response.ok) throw new Error(`Server returned ${response.status}`);
-
-    const data = await response.json();
-    console.log("✅ JSON Response:", data);
-
-    if (statusEl) statusEl.innerHTML = "✅ Processing completed. Loading images...";
-    return data;
-  } catch (error) {
-    console.error("❌ Error in runProcessing:", error);
-    if (statusEl) statusEl.innerHTML = "⚠️ Error processing images.";
-    throw error;
-  }
-}
-
-
-async function loadImage(index, kmzName) {
-  const url = `https://ui.ngrok.pro/get-image?index=${index}`;
-  console.log(`📡 Fetching: ${url}`);
-
-  try {
-    const response = await fetch(url, {
-      method: "GET",
-      headers: {
-        "ngrok-skip-browser-warning": "true", // ✅ added here
-      },
-    });
-
-    if (!response.ok) throw new Error(`Failed to fetch ${index} (${response.status})`);
-
-    const blob = await response.blob();
-    const imgURL = URL.createObjectURL(blob);
-
-    // ✅ Convert to Base64 and store locally
-    const reader = new FileReader();
-    reader.onloadend = () => {
-      const base64data = reader.result;
-      const key = `${kmzName}_${index}_image`; // unique per polygon
-      localStorage.setItem(key, base64data);
-      console.log(`💾 Saved ${index} image in localStorage with key ${key}`);
-    };
-    reader.readAsDataURL(blob);
-
-    // ✅ Show image if available in DOM
-    const imgEl = document.getElementById(index + "Img");
-    if (imgEl) imgEl.src = imgURL;
-  } catch (error) {
-    console.error(`❌ Error loading ${index}:`, error);
-  }
-}
-
 
 // --- Create a temporary loading modal ---
 function showLoadingModal(message = "🔍 Analysis Started...") {
@@ -407,44 +312,6 @@ function hideLoadingModal() {
 }
 
 // --- Modified click handler ---
-// analysisBtn.addEventListener("click", async () => {
-//   const lat = parseFloat(analysisBtn.dataset.lat);
-//   const lon = parseFloat(analysisBtn.dataset.lon);
-//   const kmzName = analysisBtn.dataset.name;
-
-//   // Step 1: Show loading modal
-//   showLoadingModal("🚀 Starting Analysis... Please wait");
-
-//   try {
-
-//      // Step 1: Run analysis (send polygon)
-//     await runProcessing();
-
-//     // Step 2: Fetch and save processed images
-//     updateLoadingMessage("📸 Fetching satellite images...");
-//     await Promise.all([
-//       loadImage("NDVI", kmzName),
-//       loadImage("NDMI", kmzName),
-//       loadImage("SAVI", kmzName),
-//       loadImage("RECL", kmzName),
-//     ]);
-//     // Step 2: Run analysis
-//     await runAnalysis(lat, lon, kmzName, map);
-
-//     // Step 3: Show completion message
-//     updateLoadingMessage("✅ Analysis Complete!");
-
-//     // Step 4: Hold completion message for a second before closing
-//     setTimeout(() => {
-//       hideLoadingModal();
-//     }, 1000);
-//   } catch (err) {
-//     console.error("❌ Error during analysis:", err);
-//     updateLoadingMessage("❌ Analysis Failed. Please try again.");
-//     setTimeout(() => hideLoadingModal(), 1500);
-//   }
-// });
-
 analysisBtn.addEventListener("click", async () => {
   const lat = parseFloat(analysisBtn.dataset.lat);
   const lon = parseFloat(analysisBtn.dataset.lon);
@@ -454,37 +321,20 @@ analysisBtn.addEventListener("click", async () => {
   showLoadingModal("🚀 Starting Analysis... Please wait");
 
   try {
-    // Step 1️⃣: Run processing (send polygon to backend)
-    updateLoadingMessage("🛰️ Sending polygon for processing...");
-    await runProcessing();
-
-    // Step 2️⃣: Fetch and save processed images (sequentially)
-    updateLoadingMessage("📸 Fetching and saving satellite images...");
-
-    // fetch and save one by one to ensure all stored before analysis
-    await loadImage("NDVI", kmzName);
-    await loadImage("NDMI", kmzName);
-    await loadImage("SAVI", kmzName);
-    await loadImage("RECL", kmzName);
-
-    updateLoadingMessage("💾 All images saved successfully!");
-
-    // Step 3️⃣: Run analysis (only after all images saved)
-    updateLoadingMessage("📊 Running analysis...");
+    // Step 2: Run analysis
     await runAnalysis(lat, lon, kmzName, map);
 
-    // Step 4️⃣: Complete message
+    // Step 3: Show completion message
     updateLoadingMessage("✅ Analysis Complete!");
+
+    // Step 4: Hold completion message for a second before closing
     setTimeout(() => {
       hideLoadingModal();
     }, 1000);
-
   } catch (err) {
     console.error("❌ Error during analysis:", err);
     updateLoadingMessage("❌ Analysis Failed. Please try again.");
     setTimeout(() => hideLoadingModal(), 1500);
   }
 });
-
-
 
