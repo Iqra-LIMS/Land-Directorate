@@ -330,8 +330,8 @@ header {
 
 .image-card {
   position: relative;
-  width: 150px;
-  height: 120px;
+  width: 180px;
+  height: 180px;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
@@ -361,5 +361,6 @@ header {
 .popup-section:nth-child(2) span.icon { color: #3498db; } /* weather */
 .popup-section:nth-child(3) span.icon { color: #27ae60; } /* soil */
 .popup-section:nth-child(4) span.icon { color: #1abc9c; } /* water */
+
 
 

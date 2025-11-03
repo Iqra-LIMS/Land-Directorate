@@ -288,11 +288,10 @@ function handleLayerSelection(layer, name) {
   console.log("🗺️ Polygon geometry:", selectedPolygon);
 }
 
-async function runProcessing() {
+async function runProcessing(kmzName) {
   if (!selectedPolygon) {
     throw new Error("⚠️ No polygon selected!");
   }
-
 
   // 🧩 Extract only lon/lat (remove the 3rd '0' value if present)
   let formattedPolygon = [];
@@ -314,34 +313,56 @@ async function runProcessing() {
   console.log("📦 Payload for /run-processing:", payload);
 
   const statusEl = document.getElementById("status");
-  if (statusEl) statusEl.innerHTML = "⏳ Processing satellite images... please wait";
+  if (statusEl)
+    statusEl.innerHTML = "⏳ Processing satellite images... please wait";
+
+  let success = false;
+  let data = null;
 
   try {
     const response = await fetch("https://ui.ngrok.pro/run-processing", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "ngrok-skip-browser-warning": "true", // ✅ added here
+        "ngrok-skip-browser-warning": "true",
       },
       body: JSON.stringify(payload),
     });
 
     if (!response.ok) throw new Error(`Server returned ${response.status}`);
 
-    const data = await response.json();
+    data = await response.json();
     console.log("✅ JSON Response:", data);
+    success = true;
 
-    if (statusEl) statusEl.innerHTML = "✅ Processing completed. Loading images...";
-    return data;
+    if (statusEl)
+      statusEl.innerHTML = "✅ Processing completed. Loading images...";
   } catch (error) {
     console.error("❌ Error in runProcessing:", error);
-    if (statusEl) statusEl.innerHTML = "⚠️ Error processing images.";
-    throw error;
+    if (statusEl)
+      statusEl.innerHTML = "⚠️ Error processing images. Loading cached images instead...";
   }
+
+  // ✅ Always load images (success or failure)
+  try {
+    console.log("📸 Fetching satellite images...");
+    await Promise.all([
+      loadImage("NDVI", kmzName),
+      loadImage("NDMI", kmzName),
+      loadImage("SAVI", kmzName),
+      loadImage("RECL", kmzName),
+    ]);
+    console.log("✅ Image loading completed.");
+  } catch (err) {
+    console.error("❌ Error loading images:", err);
+  }
+
+  return { success, data };
 }
 
 
-async function loadImage(index, kmzName) {
+// ================== 🛰️ LOAD IMAGE & SAVE TO LOCALSTORAGE ==================
+async function loadImage(index) {
   const url = `https://ui.ngrok.pro/get-image?index=${index}`;
   console.log(`📡 Fetching: ${url}`);
 
@@ -349,32 +370,49 @@ async function loadImage(index, kmzName) {
     const response = await fetch(url, {
       method: "GET",
       headers: {
-        "ngrok-skip-browser-warning": "true", // ✅ added here
+        "ngrok-skip-browser-warning": "true",
       },
     });
 
     if (!response.ok) throw new Error(`Failed to fetch ${index} (${response.status})`);
 
     const blob = await response.blob();
-    const imgURL = URL.createObjectURL(blob);
 
-    // ✅ Convert to Base64 and store locally
     const reader = new FileReader();
     reader.onloadend = () => {
       const base64data = reader.result;
-      const key = `${kmzName}_${index}_image`; // unique per polygon
+      const key = `${index}_image`; // ✅ e.g., NDVI_image, NDMI_image, RECL_image, SAVI_image
       localStorage.setItem(key, base64data);
-      console.log(`💾 Saved ${index} image in localStorage with key ${key}`);
+      console.log(`💾 Saved ${index} image in localStorage as ${key}`);
     };
     reader.readAsDataURL(blob);
-
-    // ✅ Show image if available in DOM
-    const imgEl = document.getElementById(index + "Img");
-    if (imgEl) imgEl.src = imgURL;
   } catch (error) {
     console.error(`❌ Error loading ${index}:`, error);
   }
 }
+
+
+function getStoredImages() {
+  const keys = ["NDMI_image", "NDVI_image", "RECL_image", "SAVI_image"];
+  const images = [];
+
+  keys.forEach(key => {
+    const imgData = localStorage.getItem(key);
+    if (imgData) {
+      // Extract the label (e.g., NDMI from NDMI_image)
+      const label = key.replace("_image", "");
+      images.push({
+        src: imgData,
+        label: label
+      });
+    } else {
+      console.warn(`⚠️ No image found for key: ${key}`);
+    }
+  });
+
+  return images;
+}
+
 
 
 // --- Create a temporary loading modal ---
@@ -407,43 +445,6 @@ function hideLoadingModal() {
 }
 
 // --- Modified click handler ---
-// analysisBtn.addEventListener("click", async () => {
-//   const lat = parseFloat(analysisBtn.dataset.lat);
-//   const lon = parseFloat(analysisBtn.dataset.lon);
-//   const kmzName = analysisBtn.dataset.name;
-
-//   // Step 1: Show loading modal
-//   showLoadingModal("🚀 Starting Analysis... Please wait");
-
-//   try {
-
-//      // Step 1: Run analysis (send polygon)
-//     await runProcessing();
-
-//     // Step 2: Fetch and save processed images
-//     updateLoadingMessage("📸 Fetching satellite images...");
-//     await Promise.all([
-//       loadImage("NDVI", kmzName),
-//       loadImage("NDMI", kmzName),
-//       loadImage("SAVI", kmzName),
-//       loadImage("RECL", kmzName),
-//     ]);
-//     // Step 2: Run analysis
-//     await runAnalysis(lat, lon, kmzName, map);
-
-//     // Step 3: Show completion message
-//     updateLoadingMessage("✅ Analysis Complete!");
-
-//     // Step 4: Hold completion message for a second before closing
-//     setTimeout(() => {
-//       hideLoadingModal();
-//     }, 1000);
-//   } catch (err) {
-//     console.error("❌ Error during analysis:", err);
-//     updateLoadingMessage("❌ Analysis Failed. Please try again.");
-//     setTimeout(() => hideLoadingModal(), 1500);
-//   }
-// });
 
 analysisBtn.addEventListener("click", async () => {
   const lat = parseFloat(analysisBtn.dataset.lat);
@@ -459,7 +460,7 @@ analysisBtn.addEventListener("click", async () => {
     await runProcessing();
 
     // Step 2️⃣: Fetch and save processed images (sequentially)
-    updateLoadingMessage("📸 Fetching and saving satellite images...");
+    updateLoadingMessage("📸 Fetching satellite images...");
 
     // fetch and save one by one to ensure all stored before analysis
     await loadImage("NDVI", kmzName);
@@ -468,10 +469,12 @@ analysisBtn.addEventListener("click", async () => {
     await loadImage("RECL", kmzName);
 
     updateLoadingMessage("💾 All images saved successfully!");
+    const storedImages = getStoredImages();
+    console.log("🗄️ Stored Images:", storedImages);
 
     // Step 3️⃣: Run analysis (only after all images saved)
     updateLoadingMessage("📊 Running analysis...");
-    await runAnalysis(lat, lon, kmzName, map);
+    await runAnalysis(lat, lon, kmzName, map, storedImages);
 
     // Step 4️⃣: Complete message
     updateLoadingMessage("✅ Analysis Complete!");
