@@ -301,7 +301,7 @@ function getWeatherTable(weather) {
 
   let html = `
     <h5>🌦️ 16-Day Weather Forecast</h5>
-    <div class="weather-grid">
+     <div class="weather-row" id="weatherRow">
   `;
 
   list.forEach(day => {
@@ -351,7 +351,48 @@ const rainHtml = parseFloat(rainChance) > 0
   return html;
 }
 
+// 🌤 Auto-scroll weather forecast carousel
+// 🌤 Auto-scroll weather forecast carousel (pauses when user scrolls)
+function startWeatherAutoScroll() {
+  const container = document.getElementById("weatherRow");
+  if (!container) return;
 
+  let scrollStep = 1; // pixels per frame
+  let isPaused = false;
+  let userInteracted = false;
+  let resumeTimeout;
+
+  // Pause when hovered
+  container.addEventListener("mouseenter", () => (isPaused = true));
+  container.addEventListener("mouseleave", () => (isPaused = false));
+
+  // Pause when user manually scrolls
+  container.addEventListener("scroll", () => {
+    if (!userInteracted) {
+      userInteracted = true;
+      isPaused = true;
+      clearTimeout(resumeTimeout);
+      resumeTimeout = setTimeout(() => {
+        isPaused = false;
+        userInteracted = false;
+      }, 3000); // ⏳ resume auto-scroll after 3s of no user scroll
+    }
+  });
+
+  function scrollLoop() {
+    if (!isPaused) {
+      container.scrollLeft += scrollStep;
+
+      // Loop back to start smoothly when reaching the end
+      if (container.scrollLeft + container.clientWidth >= container.scrollWidth) {
+        container.scrollLeft = 0;
+      }
+    }
+    requestAnimationFrame(scrollLoop);
+  }
+
+  scrollLoop();
+}
 
 
 // ------------------ MAIN ANALYSIS ------------------
@@ -407,6 +448,9 @@ function showAnalysisModal(kmzName, lat, lon, weather, soil, water, images = [])
 
   document.getElementById("closeModalBtn").onclick = () => modal.remove();
   document.querySelector(".modal-overlay").onclick = () => modal.remove();
+  // Start smooth auto-scroll
+startWeatherAutoScroll();
+
 }
 
 

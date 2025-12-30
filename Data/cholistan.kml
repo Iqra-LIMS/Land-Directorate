@@ -1,0 +1,8844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="converted_latlong_ExcelToTab_Events" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>converted_latlong_ExcelToTab Events</name>
+	<Snippet maxLines="0"></Snippet>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	<StyleMap id="IconStyle00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="IconStyle000">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/AB/AppData/LocalLow/Google/GoogleEarth/Layer0_Symbol_126afd98_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle001">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/AB/AppData/LocalLow/Google/GoogleEarth/Layer0_Symbol_126afd98_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>converted_latlong_ExcelToTab Events</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Khizar Hayat S/O Ghulam Nabi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Khizar Hayat S/O Ghulam Nabi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Khizar Hayat S/O Ghulam Nabi</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-06.219'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-02.185'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.10365</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.036417</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.03641666666667,29.10364999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Kareem Bakhsh S/O Muhammad Qaim</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kareem Bakhsh S/O Muhammad Qaim</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Kareem Bakhsh S/O Muhammad Qaim</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.894'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-02.220</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.098233</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.037</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.03700000000001,29.09823333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Muhammad Waheed S/O Mehmood Ul Hassan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Waheed S/O Mehmood Ul Hassan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Waheed S/O Mehmood Ul Hassan</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-06.201'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-04.108'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>177</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.10335</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.068467</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.06846666666667,29.10335,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Khalid Nadeem S/O Hafiz Bashir Ahmed</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Khalid Nadeem S/O Hafiz Bashir Ahmed</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Khalid Nadeem S/O Hafiz Bashir Ahmed</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-06.278'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-03.117</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.104633</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.05195</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.05195000000001,29.10463333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Muhammad Ajmal S/O Muhammad Amin</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Ajmal S/O Muhammad Amin</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Ajmal S/O Muhammad Amin</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-06.364'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-05.147'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>80</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.106067</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.085783</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.08578333333334,29.10606666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Muhammad Mushtaq S/O Abdul Malik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Mushtaq S/O Abdul Malik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Mushtaq S/O Abdul Malik</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.709'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-03.591'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.09515</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.05985</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.05985,29.09515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Mujeeb S/O Sadiq</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Mujeeb S/O Sadiq</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Mujeeb S/O Sadiq</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-06.037'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-00.797'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>300</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.100617</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.013283</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.01328333333333,29.10061666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Mian Afzal S/O muhammad Sadiq</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Mian Afzal S/O muhammad Sadiq</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Mian Afzal S/O muhammad Sadiq</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.873'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-01.618'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>250</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.097883</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.026967</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.02696666666667,29.09788333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Muhammad Ilyas S/O Allah Bakhsh</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Ilyas S/O Allah Bakhsh</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Ilyas S/O Allah Bakhsh</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.870'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>71-59.966'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.097833</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>71.999433</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>71.99943333333333,29.09783333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Muhammad Shamir s/O Muhammad Ismail</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Shamir s/O Muhammad Ismail</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Shamir s/O Muhammad Ismail</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-06.099'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-04.088'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.10165</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.068133</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.06813333333334,29.10165,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Tahir Mehmood</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tahir Mehmood </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Tahir Mehmood</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-06.380'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-00.990'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.106333</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.0165</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.01649999999999,29.10633333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Muhammad Majid S/O Muhammad Sharif</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Majid S/O Muhammad Sharif</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Majid S/O Muhammad Sharif</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.884'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>71-59.154'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.098067</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>71.9859</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>71.9859,29.09806666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Aurang Zeb S/O Haji Abdul Malik</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Aurang Zeb S/O Haji Abdul Malik</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Aurang Zeb S/O Haji Abdul Malik</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-06.153'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-03.755'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.10255</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.062583</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.06258333333334,29.10255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Muhammad Iqbal S/O Mehmood ul Hassan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Iqbal S/O Mehmood ul Hassan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Iqbal S/O Mehmood ul Hassan</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.655'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-03.800'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>57</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.09425</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.063333</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.06333333333333,29.09425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Abdul Aleem S/O Mubin</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Abdul Aleem S/O Mubin</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Abdul Aleem S/O Mubin</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-00.649'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-05.592</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>136</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.010817</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.0932</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.0932,29.01081666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Muhammad Maqbool S/O Umar Din</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Maqbool S/O Umar Din</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Maqbool S/O Umar Din</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-04.567'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>71-58.728'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>500</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.076117</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>71.9788</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>71.97880000000001,29.07611666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Muhammad Asif S/O Allah Bachaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Asif S/O Allah Bachaya</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Asif S/O Allah Bachaya</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.217'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-00.608'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.08695</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.010133</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.01013333333333,29.08695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Muhammad Dilshad S/O Abdul Sattar</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Dilshad S/O Abdul Sattar</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Dilshad S/O Abdul Sattar</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-04.868'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-00.341'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.081133</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.005683</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.00568333333334,29.08113333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Muhammad Pervaiz S/O Abdul Shakoor</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Pervaiz S/O Abdul Shakoor</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Pervaiz S/O Abdul Shakoor</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.219'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>71-59.379'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.086983</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>71.98965</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>71.98965,29.08698333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Muhammad Adnan S/O Shabbir Ahmad</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Adnan S/O Shabbir Ahmad</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Adnan S/O Shabbir Ahmad</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-04.716'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-00.290'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.0786</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.004833</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.00483333333334,29.0786,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Hafiz Jaffar S/O Molvi Allah Ditta</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Hafiz Jaffar S/O Molvi Allah Ditta</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Hafiz Jaffar S/O Molvi Allah Ditta</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-04.944'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>71-59.407'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.0824</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>71.990117</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>71.99011666666667,29.0824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Malik Zaffar Wahgi S/O Malik Shah Muhammad</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Malik Zaffar Wahgi S/O Malik Shah Muhammad</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Malik Zaffar Wahgi S/O Malik Shah Muhammad</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-09.400'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-03.608'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>440</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.156667</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.060133</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.06013333333334,29.15666666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Muzamal S/O M.Ishaq &amp; Haji Aamir</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muzamal S/O M.Ishaq &amp; Haji Aamir</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muzamal S/O M.Ishaq &amp; Haji Aamir</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-03.952'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>71-05.930'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>180</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.065867</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>71.098833</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>71.09883333333333,29.06586666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>M.Bilal AnwarS/O Anwar Ali</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>M.Bilal AnwarS/O Anwar Ali</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>M.Bilal AnwarS/O Anwar Ali</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.337'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>71-59.090'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.08895</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>71.984833</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>71.98483333333333,29.08895,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>M.Yousaf S/O Allah Bachaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>M.Yousaf S/O Allah Bachaya</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>M.Yousaf S/O Allah Bachaya</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.288'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-00.275'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>75</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.088133</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.004583</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.00458333333333,29.08813333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Abdul Hameed S/O M.Nawaz</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Abdul Hameed S/O M.Nawaz</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Abdul Hameed S/O M.Nawaz</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.436'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-00.331'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.0906</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.005517</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.00551666666667,29.0906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Mohsan Nazir S/O Nazir Ahmed</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Mohsan Nazir S/O Nazir Ahmed</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Mohsan Nazir S/O Nazir Ahmed</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.428'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-00.196'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.090467</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.003267</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.00326666666666,29.09046666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>M.Shabbir S/O Khuda Bakhsh</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>M.Shabbir S/O Khuda Bakhsh</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>M.Shabbir S/O Khuda Bakhsh</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.171'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-00.389'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>120</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.086183</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.006483</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.00648333333334,29.08618333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Shamshad Ahmed S/O M shareef</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Shamshad Ahmed S/O M shareef</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Shamshad Ahmed S/O M shareef</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.129'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-00.337'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.085483</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.005617</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.00561666666667,29.08548333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Usama Danish S/O Iftikhar Ahmed</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Usama Danish S/O Iftikhar Ahmed</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Usama Danish S/O Iftikhar Ahmed</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.278'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-00.275'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.087967</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.004583</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.00458333333333,29.08796666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>M.Mushtaq S/O Abdul Sattar</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>M.Mushtaq S/O Abdul Sattar</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>M.Mushtaq S/O Abdul Sattar</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-04.879'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>71-57.451</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.081317</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>71.957517</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>71.95751666666666,29.08131666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Jewan Khan S/O M. Bakhsh</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jewan Khan S/O M. Bakhsh</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Jewan Khan S/O M. Bakhsh</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.389'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>71-53.661'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.089817</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>71.89435</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>71.89435,29.08981666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Muhammad Yousaf S/O Muhammad Abbas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Yousaf S/O Muhammad Abbas</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Yousaf S/O Muhammad Abbas</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-08.974'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-07.206'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.149567</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.1201</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.12009999999999,29.14956666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Sana Ullah S/O M Abbas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sana Ullah S/O M Abbas</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Sana Ullah S/O M Abbas</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-08.788</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-07.421'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.146467</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.123683</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.12368333333333,29.14646666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Muhammad Shakeel Anwar S/O Muhammad Anwar</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Shakeel Anwar S/O Muhammad Anwar</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Shakeel Anwar S/O Muhammad Anwar</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-08.657'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-06.815'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>69</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.144283</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.113583</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.11358333333334,29.14428333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Moazam Hussain S/O Muhammad Hussain</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Moazam Hussain S/O Muhammad Hussain</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Moazam Hussain S/O Muhammad Hussain</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-07.277'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-05.180'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.121283</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.086333</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.08633333333333,29.12128333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Muhammad Farooq (Chahal)</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Farooq (Chahal)</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Farooq (Chahal)</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-07.277'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-05.013'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>300</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.121283</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.08355</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.08355,29.12128333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Muhammad Riaz S/O G Sarwar</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muhammad Riaz S/O G Sarwar</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muhammad Riaz S/O G Sarwar</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-08.380'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-05.212'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>165</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.139667</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.086867</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.08686666666667,29.13966666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Israr Hussain S/o Abdul Jabbar</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Israr Hussain S/o Abdul Jabbar</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Israr Hussain S/o Abdul Jabbar</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-08.886'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-07.096'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>181</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.1481</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.118267</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.11826666666667,29.1481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>M Zeshan S/O M Afzal</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>M Zeshan S/O M Afzal </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>M Zeshan S/O M Afzal</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-08.261'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-06.322'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>200</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.137683</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.105367</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.10536666666667,29.13768333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>M Sabir S/O Noor Muhammad</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>M Sabir S/O Noor Muhammad</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>M Sabir S/O Noor Muhammad</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-08.568'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-07.110'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>120</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.1428</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.1185</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.1185,29.1428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>M.Asghar S/O M.Ramzan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>M.Asghar S/O M.Ramzan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>M.Asghar S/O M.Ramzan</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-08.499</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-08.870'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>204</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.14165</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.147833</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.14783333333334,29.14165,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Muzamil Hussain S/O M.Ishaq</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muzamil Hussain S/O M.Ishaq </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muzamil Hussain S/O M.Ishaq</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-08.689'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-07.176</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>120</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.144817</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.1196</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.11960000000001,29.14481666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Allah Yar S/O Babar Khan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Allah Yar S/O Babar Khan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Allah Yar S/O Babar Khan</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-08.914'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-06.152'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>100</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.148567</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.102533</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.10253333333333,29.14856666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>Jaffar Hussain S/O M.Tofail</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jaffar Hussain S/O M.Tofail </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Jaffar Hussain S/O M.Tofail</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-07.924'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-07.101'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>180</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.132067</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.11835</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.11835000000001,29.13206666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>Dalshad Ahmad S/O Allah Baksh</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dalshad Ahmad S/O Allah Baksh</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>49</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Dalshad Ahmad S/O Allah Baksh</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-08.874'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-06.260'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.1479</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.104333</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.10433333333333,29.1479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>M.Imran S/O M.Aslam</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>M.Imran S/O M.Aslam</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>M.Imran S/O M.Aslam</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-08.998'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-07.327'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.149967</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.122117</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.12211666666667,29.14996666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>Ghulam Mustafa S/O M.Ramzan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ghulam Mustafa S/O M.Ramzan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>51</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Ghulam Mustafa S/O M.Ramzan</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-08.420'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-05.928'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>140</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.140333</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.0988</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.0988,29.14033333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>M.Akbar S/O Wali Muhammad</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>M.Akbar S/O Wali Muhammad</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>52</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>M.Akbar S/O Wali Muhammad</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-08.281'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-06.264'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>150</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.138017</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.1044</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.1044,29.13801666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>Ghulam  yasin S/O M.Nawaz</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ghulam  yasin S/O M.Nawaz</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>53</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Ghulam  yasin S/O M.Nawaz</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-07.347'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-06.646'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.12245</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.110767</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.11076666666666,29.12245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>M.Afzal S/O M.Ramzan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>M.Afzal S/O M.Ramzan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>54</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>M.Afzal S/O M.Ramzan</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-07.555'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-06.626</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>95</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.125917</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.110433</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.11043333333333,29.12591666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>Adnan Sarwar S/O Muhammad Sarwar</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Adnan Sarwar S/O Muhammad Sarwar</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>55</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Adnan Sarwar S/O Muhammad Sarwar</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.043</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-13.525'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>130</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.08405</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.225417</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.22541666666666,29.08405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>M Irfan S/O M Boota</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>M Irfan S/O M Boota</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>56</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>M Irfan S/O M Boota</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.792</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-17.249'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>195</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.096533</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.287483</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.28748333333333,29.09653333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>M Sajid S/O M Shareef</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>M Sajid S/O M Shareef</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>57</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>M Sajid S/O M Shareef</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.792'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-17.249</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>75</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.096533</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.287483</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.28748333333333,29.09653333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>Shoukat Ali S/O Nazeer  Ahmed</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Shoukat Ali S/O Nazeer  Ahmed</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>58</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Shoukat Ali S/O Nazeer  Ahmed</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-05.698'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-14.169'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>60</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.094967</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.23615</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.23614999999999,29.09496666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>M Dastgeer S/O Ghalam Ghouse</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>M Dastgeer S/O Ghalam Ghouse</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>59</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>M Dastgeer S/O Ghalam Ghouse</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-12.623'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-14.658</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>140</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.210383</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.2443</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.2443,29.2103833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>M Rashid SO  Shadeen Muhammad</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>M Rashid SO  Shadeen Muhammad</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>60</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>M Rashid SO  Shadeen Muhammad</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-11.065'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-12.803'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>260</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.184417</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.213383</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.21338333333334,29.18441666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>Bilal Siddiqi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bilal Siddiqi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>61</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Bilal Siddiqi</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-06.819'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-05.516'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>4238</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.11365</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.091933</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.09193333333333,29.11365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name>Munir Ahmed</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Munir Ahmed</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>62</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Munir Ahmed</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-03.102'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-10.309'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>270</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.0517</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.171817</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.17181666666667,29.0517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name>Rana Tariq</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rana Tariq</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>63</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Rana Tariq</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-02.694'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-10.324'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>746</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.0449</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.172067</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.17206666666667,29.04489999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name>Asim Virk</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Asim Virk</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>64</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Asim Virk</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-02.288'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-10.316'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>880</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.038133</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.171933</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.17193333333333,29.03813333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name>Tahir Iqbal</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tahir Iqbal</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>65</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Tahir Iqbal</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-01.478'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-10.319'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>430</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.024633</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.171983</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.17198333333333,29.02463333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00062">
+			<name>Sajid Khan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sajid Khan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>66</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Sajid Khan</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-02.921'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>71-57.509'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>900</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.048683</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>71.958483</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>71.95848333333333,29.04868333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00063">
+			<name>Muzzam Khan, Shahid mehmood</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Muzzam Khan, Shahid mehmood</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>67</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Muzzam Khan, Shahid mehmood</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-01.315'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>71-56.129'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>1001</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.021917</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>71.935483</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>71.93548333333334,29.02191666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00064">
+			<name>Farooq Azam</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Farooq Azam</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>68</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Farooq Azam</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-02.952'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>71-59.962'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>419</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.0492</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>71.999367</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>71.99936666666666,29.0492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00065">
+			<name>Miss Shajiya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Miss Shajiya</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>69</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Miss Shajiya</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-03.264'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-06.857'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.0544</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.114283</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.11428333333333,29.0544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00066">
+			<name>M Taimoor</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>M Taimoor</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>M Taimoor</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-01.956'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-09.267'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>85</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.0326</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.15445</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.15445,29.0326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00067">
+			<name>Ghulam Murtaza</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ghulam Murtaza</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>71</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Ghulam Murtaza</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-01.725'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-10.177'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.02875</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.169617</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.16961666666667,29.02875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00068">
+			<name>Rana Waqas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rana Waqas</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>sr no</td>
+
+<td>72</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>Rana Waqas</td>
+
+</tr>
+
+<tr>
+
+<td>lat</td>
+
+<td>29-01.797'</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>long</td>
+
+<td>72-10.432'</td>
+
+</tr>
+
+<tr>
+
+<td>     Cult</td>
+
+<td>80</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>lat_decimal</td>
+
+<td>29.02995</td>
+
+</tr>
+
+<tr>
+
+<td>long_decimal</td>
+
+<td>72.173867</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>72.17386666666667,29.02995,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saeed Rasool</name>
+			<Point>
+				<coordinates>71.099,29.0589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saeed Rasool</name>
+			<Point>
+				<coordinates>72.0227,29.1567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>M Sahid Nadeem</name>
+			<Point>
+				<coordinates>72.0775,29.1454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>M Zahid</name>
+			<Point>
+				<coordinates>72.0701,29.14249999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>M Zahid</name>
+			<Point>
+				<coordinates>72.14570000000001,29.0836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Khizar Hayat S/O Ghulam Nabi</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.03658513579205</longitude>
+				<latitude>29.10374939648963</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1068.979824437</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.03224134508,29.09979675338119,0 72.04090490397138,29.09964026105336,0 72.04162544230542,29.10758678197142,0 72.0315448292787,29.10785853192589,0 72.03224134508,29.09979675338119,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Kareem Bakhsh S/O Muhammad Qaim</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.03646999883627</longitude>
+				<latitude>29.09741864274532</latitude>
+				<altitude>0</altitude>
+				<heading>-1.015169443229525e-10</heading>
+				<tilt>44.99999999966552</tilt>
+				<range>1000.000007839178</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.03218495917801,29.09971194392307,0 72.0319624908888,29.09553423988279,0 72.04055615688115,29.09512534223654,0 72.04097750693296,29.09954949775645,0 72.03218495917801,29.09971194392307,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Waheed S/O Mehmood Ul Hassan</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.07072886868232</longitude>
+				<latitude>29.10408605508389</latitude>
+				<altitude>0</altitude>
+				<heading>4.935203088133309e-10</heading>
+				<tilt>44.99999999749813</tilt>
+				<range>1595.922508146095</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.06320388763103,29.10223473887012,0 72.07756991943911,29.10134445307292,0 72.07797368051774,29.10594587031215,0 72.06354823675133,29.10681625592632,0 72.06320388763103,29.10223473887012,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Khalid Nadeem S/O Hafiz Bashir Ahmed</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.05073569434956</longitude>
+				<latitude>29.1043490494391</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1563.929696990746</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.04336157149744,29.1073541980921,0 72.04372441537652,29.10208184849819,0 72.05671343374229,29.10134390078611,0 72.05810981720168,29.10680779041796,0 72.04336157149744,29.1073541980921,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Ajmal S/O Muhammad Amin</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.08590086892488</longitude>
+				<latitude>29.10641268439043</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.08926327244885,29.10403005494309,0 72.08903276140862,29.10613354822833,0 72.08909642837088,29.10705352667491,0 72.08749868738309,29.10903391080972,0 72.08412481223252,29.10866768095209,0 72.08258909874137,29.10762243856199,0 72.08253846540093,29.10379145797115,0 72.08926327244885,29.10403005494309,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Mushtaq S/O Abdul Malik</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.05950906713304</longitude>
+				<latitude>29.09652096836011</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1213.37502039361</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.06262205081624,29.092502599397,0 72.06256036938353,29.09463521770164,0 72.06254964061685,29.09521197066415,0 72.06287855383391,29.09540972903621,0 72.06341144534557,29.09577314326933,0 72.06370638548722,29.10052330048141,0 72.06245181298276,29.10052750926125,0 72.059817310661,29.10053933732322,0 72.05911190707369,29.1000904075518,0 72.05875887998276,29.09982978611805,0 72.05648522756532,29.10002780639401,0 72.05531174877886,29.09263835599152,0 72.06262205081624,29.092502599397,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Mujeeb S/O Sadiq</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.012092144066</longitude>
+				<latitude>29.09962488238752</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1589.137299356797</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.0049324218311,29.10435188384055,0 72.00459916366805,29.09544821114219,0 72.01400346925462,29.09532710580731,0 72.01708595704214,29.09489788093448,0 72.01958512446397,29.10256786435533,0 72.0049324218311,29.10435188384055,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Mian Afzal S/O muhammad Sadiq</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.02562174774252</longitude>
+				<latitude>29.09870248761559</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1708.668608708415</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.02037101605775,29.09473281270216,0 72.02957317151223,29.09304380157263,0 72.03087247942729,29.10385082017612,0 72.02204075918291,29.10436117365855,0 72.02037101605775,29.09473281270216,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Ilyas S/O Allah Bakhsh</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>71.99979322082953</longitude>
+				<latitude>29.09819035650359</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.99596015215165,29.09576700130852,0 72.0031592697942,29.09567212683,0 72.00374900911143,29.10064974192217,0 71.99583743254766,29.10070858617717,0 71.99596015215165,29.09576700130852,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Shamir s/O Muhammad Ismail</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.06697462673324</longitude>
+				<latitude>29.09854833080585</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1028.724074108142</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.06401036162406,29.09559722950113,0 72.06947742379681,29.09514148261563,0 72.07006906462027,29.1016260819434,0 72.06388018884623,29.10195517899607,0 72.06401036162406,29.09559722950113,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Tahir Mehmood</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.01785435809055</longitude>
+				<latitude>29.10935951164578</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1240.832885279931</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.01380554862833,29.1075319693845,0 72.01646580145494,29.10525020961611,0 72.02237561450053,29.1120394359922,0 72.01633026199944,29.11346881367546,0 72.01333310168054,29.10796320459921,0 72.01380554862833,29.1075319693845,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Majid S/O Muhammad Sharif</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>71.98632235265097</longitude>
+				<latitude>29.09898172442001</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1055.352032166454</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.98298469144245,29.10247675682022,0 71.98329424375261,29.10052784606156,0 71.98350438846231,29.0979261798627,0 71.98368727699804,29.09565643418322,0 71.98840053299664,29.0954866920198,0 71.98860393246756,29.09694959288926,0 71.98872392232843,29.09757406931746,0 71.98889723284253,29.09821331421038,0 71.98966001385949,29.10203792633208,0 71.98298469144245,29.10247675682022,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Aurang Zeb S/O Haji Abdul Malik</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.06005815769399</longitude>
+				<latitude>29.10390918306315</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.05663887955475,29.10076576999624,0 72.06301812644136,29.10061058401661,0 72.06347743583322,29.10714382850799,0 72.05830634030723,29.10720778210969,0 72.05663887955475,29.10076576999624,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Iqbal S/O Mehmood ul Hassan</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.06692922032082</longitude>
+				<latitude>29.09411325659503</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.06266115312458,29.09262292363656,0 72.06629731912156,29.09261154838483,0 72.06887287514226,29.09269557174673,0 72.07001684990718,29.0933011018752,0 72.07041545127892,29.09348786667667,0 72.07127603238638,29.09402080563153,0 72.07122539301085,29.0946310551446,0 72.07122342795967,29.09498438438482,0 72.06618709726978,29.09536915646688,0 72.06384933802448,29.09558891571697,0 72.06374487468393,29.09558172257832,0 72.06336370433345,29.09561496480523,0 72.06258240825527,29.09516258743477,0 72.06266115312458,29.09262292363656,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Abdul Aleem S/O Mubin</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.09364565621037</longitude>
+				<latitude>29.01094808024382</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1058.772723302352</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.09117020152775,29.01397446387119,0 72.08990737228024,29.01397910515029,0 72.08983672614281,29.01227008104538,0 72.08920255167155,29.01139317029403,0 72.08904279738049,29.01083214863353,0 72.08877601881557,29.0100432690175,0 72.08865347872489,29.00957314158068,0 72.08879095978051,29.00912128217522,0 72.08926912241824,29.00873498891816,0 72.09008211020493,29.00897869735232,0 72.09073963666083,29.00922325715288,0 72.09141466888546,29.00896302263581,0 72.09187382528485,29.00851869108717,0 72.0925202447341,29.00819451976303,0 72.09345762820332,29.00814431252609,0 72.09359964163163,29.00813104214481,0 72.09380121648469,29.00814618862931,0 72.09449125029191,29.00818525373802,0 72.09526345666967,29.00812693720919,0 72.09536289724217,29.0081763620992,0 72.09612259977328,29.00811998009553,0 72.09759162767674,29.00797853004318,0 72.09853545852289,29.00791705533735,0 72.09863783369586,29.01361539997141,0 72.09117020152775,29.01397446387119,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Maqbool S/O Umar Din</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>71.9793354291422</longitude>
+				<latitude>29.07678176873198</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1583.021225225221</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.97187128385096,29.06873764138162,0 71.97602101935013,29.06870978029191,0 71.97827245210732,29.06983668550656,0 71.97904876939133,29.07032899984427,0 71.98016917632931,29.07089290969295,0 71.98113831225655,29.07093103816461,0 71.98209807029342,29.07137860791319,0 71.98359099405113,29.07260620342138,0 71.98440206657489,29.07374729542176,0 71.98509815819078,29.07429642211827,0 71.98532910188094,29.07503005730921,0 71.98665812888264,29.0757971871246,0 71.98679957443343,29.08137653977255,0 71.98468964316362,29.08151505235955,0 71.98178590786888,29.08166097878262,0 71.98182988315867,29.0843976857042,0 71.9721305162733,29.08485375717204,0 71.97187128385096,29.06873764138162,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Asif S/O Allah Bachaya</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.01082914858827</longitude>
+				<latitude>29.08611122423976</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.00873676466404,29.09121072991686,0 72.00727895153082,29.09011881498101,0 72.00694598837784,29.08969844482936,0 72.00647936918497,29.0889607865289,0 72.00824024134336,29.08665406746175,0 72.01244763760232,29.08101171856266,0 72.01515659286531,29.08137702522098,0 72.0151789279916,29.08331886633374,0 72.0140052698721,29.08972749578782,0 72.01410973234456,29.09093573791769,0 72.00873676466404,29.09121072991686,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Dilshad S/O Abdul Sattar</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.00419483062907</longitude>
+				<latitude>29.08180599700937</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1100.872471027155</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.99907490806069,29.08474205012944,0 71.99900414372024,29.07984999394768,0 71.99951010753279,29.07983959660781,0 71.99952689913925,29.07918050036038,0 72.00311527986362,29.07904886134196,0 72.00891917311426,29.07886994388931,0 72.00938551753792,29.08450095192063,0 71.99907490806069,29.08474205012944,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Pervaiz S/O Abdul Shakoor</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>71.98988584869464</longitude>
+				<latitude>29.08779360054785</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.98685418351445,29.08567397228936,0 71.99280455435706,29.08552851169305,0 71.99291751387483,29.08997530146753,0 71.9869956721255,29.09005868940266,0 71.98685418351445,29.08567397228936,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Adnan S/O Shabbir Ahmad</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.00463628494242</longitude>
+				<latitude>29.07619847986921</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.00285454174107,29.07897576799873,0 72.00312000973825,29.07342119173969,0 72.00639078777407,29.07346946935742,0 72.00641802814378,29.07889639460274,0 72.00285454174107,29.07897576799873,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Hafiz Jaffar S/O Molvi Allah Ditta</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>71.98977333533858</longitude>
+				<latitude>29.08392445146885</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.98681211132563,29.08235649720413,0 71.99040834326333,29.08230748427554,0 71.99260211044125,29.08223127695126,0 71.99273455935153,29.0854378151764,0 71.98688726134144,29.08561762598644,0 71.98681211132563,29.08235649720413,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Malik Zaffar Wahgi S/O Malik Shah Muhammad</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.06038427650287</longitude>
+				<latitude>29.15867269886539</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1685.436354496739</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.05243721070653,29.16429013518673,0 72.05648105987312,29.15083158249632,0 72.0683313422992,29.15350622721789,0 72.06396854372987,29.16651381523446,0 72.05243721070653,29.16429013518673,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muzamal S/O M.Ishaq &amp; Haji Aamir</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>71.0974223512155</longitude>
+				<latitude>29.06769237858994</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1394.022308111616</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.10098152917192,29.06419171305565,0 71.10200922246248,29.06424423975584,0 71.10197616188847,29.06517822810457,0 71.10197807535877,29.06631138521045,0 71.10243801776245,29.06639796499292,0 71.10263968336497,29.06704953921409,0 71.10288681930824,29.06746224813098,0 71.10308423080264,29.06769242505218,0 71.10366891595633,29.06802561675653,0 71.10389204503296,29.06908296932944,0 71.10396758144677,29.06963828361376,0 71.10399530920809,29.0701194720081,0 71.10393985570337,29.07037964656978,0 71.10226765953419,29.07036236300521,0 71.09936631796474,29.07090813014383,0 71.09830392011911,29.07127495570584,0 71.09756066523578,29.07028683205986,0 71.09742315433415,29.07033057605931,0 71.09711956267903,29.0703200448206,0 71.09605759835259,29.0702586548194,0 71.09084939322291,29.06932740274758,0 71.09114242289854,29.0673919475231,0 71.0912258114341,29.06690435920532,0 71.09140997838347,29.06562036424904,0 71.0920366614115,29.06551025491511,0 71.09276729432784,29.06541627045907,0 71.0928148556528,29.06505362302122,0 71.09313284935062,29.06496112510959,0 71.09321790954333,29.06483096792074,0 71.09389950586731,29.06491131863645,0 71.09391072463453,29.06465316607534,0 71.09544671110648,29.06483947150208,0 71.09630461198955,29.06490778998631,0 71.09632352576881,29.06455164002465,0 71.09684257687732,29.06445494332864,0 71.09720207448053,29.06439905731059,0 71.09783280602655,29.06410980147403,0 71.09921320893601,29.06413552358724,0 71.10098152917192,29.06419171305565,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>M.Bilal AnwarS/O Anwar Ali</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>71.98447649908465</longitude>
+				<latitude>29.08828397125684</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.98198812504604,29.08496293227025,0 71.98475416971614,29.08461921010851,0 71.98478902684749,29.08433498226817,0 71.98682329017205,29.08430844819424,0 71.98697185890542,29.09220844209407,0 71.98326616469322,29.09225949431945,0 71.98198113926389,29.09215393327987,0 71.98198812504604,29.08496293227025,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>M.Yousaf S/O Allah Bachaya</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.00151775584166</longitude>
+				<latitude>29.08984338927087</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1110.536280779645</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.00044497124487,29.09021974098087,0 72.00028627486142,29.09210145602565,0 71.99628150079363,29.09238178777949,0 71.99629237267828,29.08972456287725,0 71.99870118538746,29.08974949985789,0 71.99870904879417,29.0886791016801,0 71.99874301112541,29.08730499076226,0 72.00314432159692,29.08780195963962,0 72.0042677533398,29.08797389771907,0 72.00459713499237,29.08807282576239,0 72.00675401088967,29.08855749086079,0 72.0055420551797,29.09035764893113,0 72.00044497124487,29.09021974098087,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Abdul Hameed S/O M.Nawaz</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.00784459841663</longitude>
+				<latitude>29.09204451149671</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1099.644792961743</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.00533086302767,29.09069830217481,0 72.00647381879023,29.08905715137077,0 72.0072519477371,29.09015496282258,0 72.00879546247826,29.0912780496724,0 72.01248172910934,29.09107007089532,0 72.01302949818181,29.09503187162265,0 72.00265969865144,29.09493909458537,0 72.00533086302767,29.09069830217481,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Mohsan Nazir S/O Nazir Ahmed</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.00269968979728</longitude>
+				<latitude>29.09275588714875</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.00549344339346,29.09039100369748,0 72.00257248787425,29.09519526903356,0 71.99990593620109,29.09524924200509,0 72.00030279572699,29.09219088138873,0 72.0004692842784,29.09026253229242,0 72.00549344339346,29.09039100369748,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>M.Shabbir S/O Khuda Bakhsh</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.01124847113763</longitude>
+				<latitude>29.08156636248999</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1038.794746649225</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.00635049424102,29.08459423970548,0 72.00936309878585,29.08453160651207,0 72.00918508524229,29.08098528210691,0 72.00928492663144,29.07464700845455,0 72.01614644803423,29.07472359188139,0 72.01157972409662,29.08202101935061,0 72.00983084755248,29.08453314432324,0 72.00676101417736,29.08848571652543,0 72.00639105192057,29.08838092336166,0 72.00635049424102,29.08459423970548,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Shamshad Ahmed S/O M shareef</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>71.99956824585242</longitude>
+				<latitude>29.08607652289556</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1446.019277964893</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.99315310319494,29.08762002267657,0 71.99281517147317,29.08607669478593,0 71.99275011146433,29.08470841409308,0 72.00638291121632,29.08453302311455,0 72.00633059194983,29.08602993124339,0 72.00638638024047,29.08718140568222,0 71.99315310319494,29.08762002267657,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>M.Mushtaq S/O Abdul Sattar</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>71.9564402681857</longitude>
+				<latitude>29.07886544463098</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1231.66569083109</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.95063286275771,29.07718473216057,0 71.95137316543715,29.0765479324049,0 71.95295952100638,29.07598428312938,0 71.95483021416756,29.07600617030416,0 71.95482749854173,29.07686442233304,0 71.96138021813522,29.0767854013189,0 71.96161131710835,29.07873713704184,0 71.96224767361372,29.08168273939291,0 71.95100590697805,29.08174660613258,0 71.95063286275771,29.07718473216057,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Jewan Khan S/O M. Bakhsh</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>71.89393181262378</longitude>
+				<latitude>29.09066664138096</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.89166416143409,29.08681013614467,0 71.8927854631113,29.0867326000785,0 71.89340631946131,29.08644923596558,0 71.89413314929648,29.08615667222102,0 71.89593076377437,29.08623704595049,0 71.89619946381349,29.0951400945035,0 71.89280696348182,29.09517661054091,0 71.89166416143409,29.08681013614467,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Yousaf S/O Muhammad Abbas</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.11710697693314</longitude>
+				<latitude>29.15239191371204</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.11408723025569,29.14928851524676,0 72.1141196269769,29.14924869316426,0 72.11413603526536,29.14914931323644,0 72.11667966750144,29.1489568936861,0 72.11675022695367,29.14962665109896,0 72.12013345309119,29.14961371644414,0 72.12012846966695,29.15564261081845,0 72.11688833488634,29.15570815742766,0 72.11449411092768,29.15582693373798,0 72.11408050077512,29.15179799923962,0 72.11408723025569,29.14928851524676,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sana Ullah S/O M Abbas</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.12649817165928</longitude>
+				<latitude>29.14832318640439</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.12364960562918,29.14624799774359,0 72.12930174361546,29.14717275991017,0 72.12940540683439,29.15041164841589,0 72.12359093648418,29.14955340118546,0 72.12364960562918,29.14624799774359,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Shakeel Anwar S/O Muhammad Anwar</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.11344364402207</longitude>
+				<latitude>29.14339889635529</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.11001714215324,29.14146285771874,0 72.11692145621957,29.1415042662338,0 72.11676657822177,29.14533493499185,0 72.10996583182455,29.14517976393408,0 72.11001714215324,29.14146285771874,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Moazam Hussain S/O Muhammad Hussain</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.08869171545645</longitude>
+				<latitude>29.12167183416737</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.08519926079603,29.11822832570317,0 72.08857855001874,29.11831724452666,0 72.08958161610748,29.11970038533794,0 72.09030778300176,29.12064960534211,0 72.09136188390399,29.12102887768985,0 72.09211507621659,29.12165002135715,0 72.09218417011687,29.12253735599254,0 72.09209802935501,29.12376853840788,0 72.09194598939922,29.12488283302822,0 72.08573530792056,29.12511534263157,0 72.08519926079603,29.11822832570317,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Farooq (Chahal)</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.08107495059573</longitude>
+				<latitude>29.12357996612685</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1107.14318351589</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.07591161644719,29.13189058816404,0 72.08132716219836,29.11655456253277,0 72.08206794091056,29.11577532548534,0 72.08248363284633,29.11530814608608,0 72.08270907742312,29.11511477770797,0 72.08497173608028,29.115369265014,0 72.08623828474428,29.13204515454573,0 72.07591161644719,29.13189058816404,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Riaz S/O G Sarwar</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.08563302775053</longitude>
+				<latitude>29.14075671556792</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.08184442817708,29.13671612121832,0 72.089421627324,29.13650674123214,0 72.08918202453121,29.14500668990371,0 72.08202266951233,29.14495944009789,0 72.08184442817708,29.13671612121832,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Israr Hussain S/o Abdul Jabbar</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.11274928273006</longitude>
+				<latitude>29.14786781350733</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1567.173176916582</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.10712240985676,29.15071945411908,0 72.10655307346198,29.14884657126544,0 72.10535986463404,29.14501617289557,0 72.10988386605376,29.14507947827821,0 72.10992888863289,29.14525872419325,0 72.11420721978904,29.145322848296,0 72.1168184630039,29.14535489458261,0 72.11683349059862,29.14553904836665,0 72.12013870082609,29.14555481009077,0 72.12008143107141,29.14956161454561,0 72.11680145878033,29.149536209121,0 72.11665182934068,29.14890133420434,0 72.11401408651115,29.15059880369061,0 72.1099907912787,29.1506188656085,0 72.10712240985676,29.15071945411908,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>M Zeshan S/O M Afzal</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.10661974445418</longitude>
+				<latitude>29.13249385313169</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.10318413347458,29.12700532759014,0 72.11009018714704,29.12712423780564,0 72.10996931917178,29.13795832277957,0 72.10314930176132,29.13798237867325,0 72.10318413347458,29.12700532759014,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>M Sabir S/O Noor Muhammad</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.12035269122225</longitude>
+				<latitude>29.14065215128233</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.1171589340269,29.13744692081708,0 72.12383532156663,29.13731764892135,0 72.12381421300302,29.14398087355852,0 72.11687006087789,29.14398665364331,0 72.1171589340269,29.13744692081708,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>M.Asghar S/O M.Ramzan</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.14888219687958</longitude>
+				<latitude>29.14129499435657</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1240.446162023263</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.1430333894629,29.14503770297485,0 72.14432626804043,29.13742515228518,0 72.15308247980569,29.13779648031307,0 72.15473100429627,29.14516483642797,0 72.1430333894629,29.14503770297485,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muzamil Hussain S/O M.Ishaq</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.12435568857781</longitude>
+				<latitude>29.14639447762868</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1592.323513685904</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.11685448874354,29.14550935381454,0 72.11684768808539,29.14401251274843,0 72.12025923214135,29.14402943448993,0 72.13177872713801,29.14387073920681,0 72.13186368907023,29.14747413585437,0 72.12357940362843,29.14614758029544,0 72.12354673260288,29.14882293004893,0 72.1201246278621,29.14891821605055,0 72.1202233602334,29.14547226399317,0 72.11685448874354,29.14550935381454,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Allah Yar S/O Babar Khan</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.10071641812542</longitude>
+				<latitude>29.1498846196765</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1040.833373772988</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.09620013573968,29.14779643733975,0 72.10003992012635,29.14750116415968,0 72.10007955148006,29.14785686997276,0 72.10129352096668,29.14788575771409,0 72.1032394872226,29.14773221386298,0 72.10382538598651,29.14768371020463,0 72.10496580346775,29.14958004048572,0 72.10562401049052,29.15143226458108,0 72.10196758321658,29.15192174839871,0 72.10163554886336,29.15191127090898,0 72.09580882576033,29.15226807519331,0 72.09620013573968,29.14779643733975,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Jaffar Hussain S/O M.Tofail</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.11881421843125</longitude>
+				<latitude>29.13380238825951</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1063.526656513653</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.1153996969003,29.13742096855251,0 72.11466406617932,29.13645362821902,0 72.11422297298046,29.13567683511879,0 72.11412297198262,29.13541508258422,0 72.11395254929427,29.13475036194808,0 72.11379962549644,29.13413040208766,0 72.11414671835841,29.13386289896816,0 72.11410194829644,29.13346958536635,0 72.11399953934,29.13286052563941,0 72.11391320765181,29.13231004215865,0 72.11384693066303,29.13103002714936,0 72.11405885895374,29.13101566256007,0 72.11431298556249,29.13080885657031,0 72.11413173747285,29.13029080342166,0 72.12037603452156,29.13034234457244,0 72.12369912013845,29.13018380796652,0 72.1237465572237,29.13098832591643,0 72.12377919613333,29.13208510600879,0 72.12382881136608,29.13722227912131,0 72.1153996969003,29.13742096855251,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Dalshad Ahmad S/O Allah Baksh</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.1040472229196</longitude>
+				<latitude>29.14889951460699</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.10182899162919,29.14779204806249,0 72.10010915799117,29.1478046833493,0 72.10003037235607,29.14391621698912,0 72.10500635786978,29.14386361579002,0 72.10806407348315,29.15365122715659,0 72.1059424211075,29.15393541342396,0 72.10498051743826,29.15174435762917,0 72.10570318281752,29.15154038867973,0 72.10503612597522,29.14954473936873,0 72.10381949784542,29.14761469266631,0 72.10182899162919,29.14779204806249,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>M.Imran S/O M.Aslam</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.12185557237751</longitude>
+				<latitude>29.15388429048773</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.1201183138943,29.14894518731865,0 72.12359283086073,29.14883282150197,0 72.12358805601701,29.1589357594735,0 72.12081121859008,29.15887280224571,0 72.12077465990146,29.15790309705717,0 72.12019401636053,29.15787484844342,0 72.1201183138943,29.14894518731865,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ghulam Mustafa S/O M.Ramzan</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.09437452383008</longitude>
+				<latitude>29.1408124889907</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1040.267383324822</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.09919975772104,29.13797818406324,0 72.09927944549314,29.14337495837932,0 72.08946960216704,29.14364679391816,0 72.08961180661542,29.13823803426877,0 72.09919975772104,29.13797818406324,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>M.Akbar S/O Wali Muhammad</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.10444390589916</longitude>
+				<latitude>29.14092715927318</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1089.204810113077</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.09943575463626,29.14381248180798,0 72.09930823392325,29.13804183673837,0 72.109143345338,29.13815245028385,0 72.1095795778751,29.14365499351679,0 72.09943575463626,29.14381248180798,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ghulam  yasin S/O M.Nawaz</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.10932882458775</longitude>
+				<latitude>29.1217068349907</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.10734661150379,29.12021220814997,0 72.11182597913538,29.12018556465945,0 72.11203997019443,29.12322743673124,0 72.1066176789811,29.12322810532195,0 72.10734661150379,29.12021220814997,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>M.Afzal S/O M.Ramzan</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.10815240952951</longitude>
+				<latitude>29.12525020197716</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1052.108466297854</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.11200937077992,29.1233063466081,0 72.11311316233926,29.12726800151447,0 72.10319165671973,29.12691475518605,0 72.10323307047383,29.12323240243986,0 72.11200937077992,29.1233063466081,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Adnan Sarwar S/O Muhammad Sarwar</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.22676855973168</longitude>
+				<latitude>29.08517596254647</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.22476619422987,29.08995653703544,0 72.22458648742388,29.08576004134202,0 72.22396506464618,29.08506715615374,0 72.22331429098055,29.08431262875693,0 72.22302962056035,29.08343992782224,0 72.22319303756214,29.08324982573725,0 72.22339890047454,29.08249149894053,0 72.22356162617362,29.08236574840476,0 72.22381220168683,29.08252249858265,0 72.22456385042308,29.0803953880575,0 72.23050749890299,29.08412009256597,0 72.23036022939216,29.08990002480909,0 72.22476619422987,29.08995653703544,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>M Irfan S/O M Boota</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.28184692087997</longitude>
+				<latitude>29.09555822516461</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1241.626620382999</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.27609496035122,29.09849080848335,0 72.27599254544576,29.09604402422703,0 72.27618493475109,29.0920752931895,0 72.28770129631418,29.09267607015377,0 72.2876068268655,29.09450212423316,0 72.28738855586718,29.09745044955901,0 72.2871139365965,29.09904115713973,0 72.27609496035122,29.09849080848335,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>M Sajid S/O M Shareef</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.28993473746121</longitude>
+				<latitude>29.095731396679</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.28729867332159,29.09865985078032,0 72.2877958020276,29.09280863248745,0 72.29213962284638,29.09280294257768,0 72.29257080160082,29.09865304890214,0 72.28729867332159,29.09865985078032,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Shoukat Ali S/O Nazeer  Ahmed</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.23603559841042</longitude>
+				<latitude>29.09524424401792</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.23429554081038,29.09265709733039,0 72.23853006026243,29.09256243777168,0 72.23830730227154,29.09792605026416,0 72.23354113655843,29.09722098319947,0 72.23429554081038,29.09265709733039,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>M Dastgeer S/O Ghalam Ghouse</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.24407522566702</longitude>
+				<latitude>29.21132455995758</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.24041539929374,29.21519794039814,0 72.24087167396456,29.20786028036107,0 72.2476537585116,29.20745117951702,0 72.2477350520403,29.21498340221945,0 72.24041539929374,29.21519794039814,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>M Rashid SO  Shadeen Muhammad</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.21204863835294</longitude>
+				<latitude>29.18261285318015</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1227.977501662854</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.20628136462513,29.17830236206493,0 72.21670735543623,29.17802135075156,0 72.2178386544833,29.18720435560873,0 72.20625862222258,29.18689749404344,0 72.20628136462513,29.17830236206493,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bilal Siddiqi</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.1263483056451</longitude>
+				<latitude>29.12150199875602</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>9198.940560277435</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.08531596797243,29.11804048185499,0 72.08507225258597,29.11551954911295,0 72.08296549937367,29.11472704029237,0 72.08722299731488,29.10922242276638,0 72.08925348169971,29.10714864861248,0 72.0895191120685,29.10415318560801,0 72.08952628461212,29.10367147790665,0 72.10554357553478,29.10394140388361,0 72.11088005637276,29.10818914555092,0 72.11867511315208,29.11217278150542,0 72.12445121500834,29.11215442678204,0 72.13758435772955,29.11212387505272,0 72.14427348750453,29.11260742870802,0 72.15338242320551,29.12093378643753,0 72.16124983142286,29.12812507725388,0 72.16973111191651,29.13091883706226,0 72.16050760177417,29.13613917303258,0 72.15625690216041,29.13933251960539,0 72.15300333093627,29.13707497004058,0 72.14334262305529,29.13595720588519,0 72.12447284571014,29.13298556302075,0 72.12399550770857,29.12904152306547,0 72.11341295351413,29.12976993415576,0 72.11348002904219,29.12714700566185,0 72.11257490268505,29.12361617846337,0 72.11234310263592,29.11954452545542,0 72.1071342394907,29.11953733434081,0 72.10625042110361,29.12284825889223,0 72.10268785812164,29.1228450652882,0 72.1027014762397,29.13766047086703,0 72.08968057968292,29.13780183477589,0 72.08939493127495,29.13064537245389,0 72.09201448424166,29.12599637543351,0 72.0927745137375,29.12138323944159,0 72.09042827783477,29.12029398031549,0 72.08883239234343,29.11785578331268,0 72.08531596797243,29.11804048185499,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Munir Ahmed</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.17094001543978</longitude>
+				<latitude>29.04892973031283</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>2148.502706410875</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.16357613586577,29.0516255188117,0 72.16230180984437,29.04913234523203,0 72.16080940175532,29.04628542624889,0 72.16327437278386,29.04623541652503,0 72.16500619813168,29.04629306384325,0 72.18103940740211,29.0462286621954,0 72.18107062912424,29.05163079843025,0 72.16357613586577,29.0516255188117,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Rana Tariq</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.18415270438251</longitude>
+				<latitude>29.04374927342769</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>5497.79775339295</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.15822723710967,29.04086985388882,0 72.20872695164593,29.04073121698211,0 72.21007817165537,29.04676732987328,0 72.16079060033279,29.04604843365177,0 72.15822723710967,29.04086985388882,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Asim Virk</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.1856824151413</longitude>
+				<latitude>29.03767444334068</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>6464.339987469695</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.15816297813871,29.04083779769858,0 72.15519833901561,29.03537215213759,0 72.21378591569263,29.03451108898278,0 72.21616649126699,29.04028276187341,0 72.15816297813871,29.04083779769858,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Tahir Iqbal</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.1780771385545</longitude>
+				<latitude>29.01867705394663</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1452.174816116442</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.17122997453136,29.02534992940875,0 72.17129500263614,29.01200417848451,0 72.18317036627235,29.01313216206603,0 72.18294610064459,29.01327949990965,0 72.1830384106554,29.01328210415481,0 72.18315384182642,29.01328536060322,0 72.18492430257764,29.02503548018561,0 72.17122997453136,29.02534992940875,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sajid Khan</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>71.95679695385851</longitude>
+				<latitude>29.04244638708858</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>2440.97550254928</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.94825035349808,29.03432715161484,0 71.96521434536866,29.03377581214058,0 71.96830672241788,29.05070800549409,0 71.94528718529916,29.05111696203658,0 71.94825035349808,29.03432715161484,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muzzam Khan, Shahid mehmood</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>71.93469299866229</longitude>
+				<latitude>29.02154834644251</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>2997.999434339355</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.92429664773464,29.01392376767214,0 71.94642442657086,29.01435109961616,0 71.94882944194894,29.02884039350366,0 71.92055655537561,29.02917292521287,0 71.92429664773464,29.01392376767214,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Farooq Azam</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>71.99823539594874</longitude>
+				<latitude>29.05160789312691</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1658.343872806664</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.99134730491947,29.04637131705172,0 72.00400950560086,29.04589244153692,0 72.00605470393121,29.05732334471689,0 71.99041608796628,29.05712503721441,0 71.99134730491947,29.04637131705172,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Miss Shajiya</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.11289257585284</longitude>
+				<latitude>29.05356915955189</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.11007769732835,29.05169039492676,0 72.11216259675756,29.05161793801182,0 72.11451175493553,29.05165501488326,0 72.11578471939848,29.05264115210278,0 72.11487054975898,29.05405840386737,0 72.11387836908553,29.05552038109196,0 72.11097623458627,29.05542403029667,0 72.11000043230722,29.05544784973109,0 72.11000800292202,29.05406857255104,0 72.11004472580295,29.05242380735521,0 72.11007769732835,29.05169039492676,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>M Taimoor</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.15605683549904</longitude>
+				<latitude>29.03258757183743</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.15181061751655,29.02994125582532,0 72.15888558429154,29.02994845064088,0 72.16030305348156,29.03491174625787,0 72.1551090726617,29.03523388784954,0 72.15181061751655,29.02994125582532,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ghulam Murtaza</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.16814667776652</longitude>
+				<latitude>29.02794214777204</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.16514858251016,29.02602959752316,0 72.16900896955705,29.02729056096736,0 72.17118438969939,29.028242787033,0 72.17113779050078,29.02983925040531,0 72.16510896583364,29.02985469802093,0 72.16514858251016,29.02602959752316,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Rana Waqas</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>72.17566940061214</longitude>
+				<latitude>29.03056291773744</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1000</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.17258594169637,29.03237988233558,0 72.17264240337472,29.02785868549982,0 72.17866796830585,29.02795476635531,0 72.17875285952789,29.03326714997506,0 72.17258594169637,29.03237988233558,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Usama Danish S/O Iftikhar Ahmed</name>
+			<snippet></snippet>
+			<LookAt>
+				<longitude>71.99965872454266</longitude>
+				<latitude>29.09027323913369</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>1427.093626683346</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.99867294171115,29.08967986655995,0 71.99773741312035,29.08973331228578,0 71.99617375120572,29.08977899110323,0 71.99630520717817,29.09333360916164,0 71.99302287195142,29.09333528078199,0 71.99294490952995,29.08982742649911,0 71.99292982690261,29.08767071363436,0 72.0063876221827,29.08721119748539,0 72.00638737565136,29.08850695250344,0 71.99867294171115,29.08967986655995,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Saed Rasool Shah S/O Ghafoor Shah(1)</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							71.10560748764638,29.06136542165592,0 71.09825144202979,29.06132622620395,0 71.09827567138954,29.05343525041526,0 71.10427183427618,29.05511166984733,0 71.10560748764638,29.06136542165592,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Saed Rasool Shah S/O Ghafoor Shah</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.01896314377848,29.15550316793408,0 72.02549215658325,29.15237435206059,0 72.02819930953096,29.15841479702824,0 72.02093871771753,29.16106345398182,0 72.01896314377848,29.15550316793408,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Shahid Nadeem S/O Muhammad rafique</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.07130285072486,29.1450337751539,0 72.08374576722704,29.14493238612872,0 72.0847678730965,29.15240623121127,0 72.06962733225456,29.15003261045018,0 72.07130285072486,29.1450337751539,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Zahid Nadeem S/O Muhammad rafique(1)</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.06954882035028,29.14993543583945,0 72.06113734337859,29.1478208523118,0 72.06042901291241,29.13918371088035,0 72.07322151970078,29.13939102702313,0 72.06954882035028,29.14993543583945,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Muhammad Zahid Nadeem S/O Muhammad rafique(2)</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							72.13224454579098,29.07892391784963,0 72.15136620606475,29.07883604582065,0 72.15128637839891,29.08414976665108,0 72.13154149673517,29.08424180011349,0 72.13224454579098,29.07892391784963,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

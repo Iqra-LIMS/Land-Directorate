@@ -362,6 +362,9 @@ async function runProcessing(kmzName) {
 
 
 // ================== 🛰️ LOAD IMAGE & SAVE TO LOCALSTORAGE ==================
+
+
+
 async function loadImage(index) {
   const url = `https://ui.ngrok.pro/get-image?index=${index}`;
   console.log(`📡 Fetching: ${url}`);
@@ -369,49 +372,58 @@ async function loadImage(index) {
   try {
     const response = await fetch(url, {
       method: "GET",
-      headers: {
-        "ngrok-skip-browser-warning": "true",
-      },
+      headers: { "ngrok-skip-browser-warning": "true" },
     });
 
     if (!response.ok) throw new Error(`Failed to fetch ${index} (${response.status})`);
 
     const blob = await response.blob();
+    const imgUrl = URL.createObjectURL(blob); // create temporary URL
 
-    const reader = new FileReader();
-    reader.onloadend = () => {
-      const base64data = reader.result;
-      const key = `${index}_image`; // ✅ e.g., NDVI_image, NDMI_image, RECL_image, SAVI_image
-      localStorage.setItem(key, base64data);
-      console.log(`💾 Saved ${index} image in localStorage as ${key}`);
-    };
-    reader.readAsDataURL(blob);
+    displayImage(imgUrl, index); // show image directly
+
+    return { src: imgUrl, label: index }; // return data for analysis
   } catch (error) {
     console.error(`❌ Error loading ${index}:`, error);
+    return null;
   }
 }
 
+// ================== DISPLAY IMAGE FUNCTION ==================
+function displayImage(src, label) {
+  let container = document.getElementById("imageContainer");
+  if (!container) {
+    container = document.createElement("div");
+    container.id = "imageContainer";
+    container.style.display = "flex";
+    container.style.flexWrap = "wrap";
+    container.style.gap = "10px";
+    document.body.appendChild(container);
+  }
 
-function getStoredImages() {
-  const keys = ["NDMI_image", "NDVI_image", "RECL_image", "SAVI_image"];
-  const images = [];
+  const wrapper = document.createElement("div");
+  wrapper.style.display = "flex";
+  wrapper.style.flexDirection = "column";
+  wrapper.style.alignItems = "center";
 
-  keys.forEach(key => {
-    const imgData = localStorage.getItem(key);
-    if (imgData) {
-      // Extract the label (e.g., NDMI from NDMI_image)
-      const label = key.replace("_image", "");
-      images.push({
-        src: imgData,
-        label: label
-      });
-    } else {
-      console.warn(`⚠️ No image found for key: ${key}`);
-    }
-  });
+  const img = document.createElement("img");
+  img.src = src;
+  img.alt = label;
+  img.style.width = "200px";
+  img.style.height = "200px";
+  img.style.objectFit = "cover";
+  img.style.border = "1px solid #ccc";
 
-  return images;
+  const caption = document.createElement("span");
+  caption.textContent = label;
+  caption.style.marginTop = "5px";
+  caption.style.fontWeight = "bold";
+
+  wrapper.appendChild(img);
+  wrapper.appendChild(caption);
+  container.appendChild(wrapper);
 }
+
 
 
 
@@ -446,48 +458,35 @@ function hideLoadingModal() {
 
 // --- Modified click handler ---
 
+// ================== ANALYSIS CLICK HANDLER ==================
 analysisBtn.addEventListener("click", async () => {
   const lat = parseFloat(analysisBtn.dataset.lat);
   const lon = parseFloat(analysisBtn.dataset.lon);
   const kmzName = analysisBtn.dataset.name;
 
-  // Step 1: Show loading modal
   showLoadingModal("🚀 Starting Analysis... Please wait");
 
   try {
-    // Step 1️⃣: Run processing (send polygon to backend)
     updateLoadingMessage("🛰️ Sending polygon for processing...");
     await runProcessing();
 
-    // Step 2️⃣: Fetch and save processed images (sequentially)
     updateLoadingMessage("📸 Fetching satellite images...");
 
-    // fetch and save one by one to ensure all stored before analysis
-    await loadImage("NDVI", kmzName);
-    await loadImage("NDMI", kmzName);
-    await loadImage("SAVI", kmzName);
-    await loadImage("RECL", kmzName);
+    // fetch images and store in array directly
+    const images = [];
+    for (const idx of ["NDVI", "NDMI", "SAVI", "RECL"]) {
+      const imgData = await loadImage(idx, kmzName);
+      if (imgData) images.push(imgData);
+    }
 
-    updateLoadingMessage("💾 All images saved successfully!");
-    const storedImages = getStoredImages();
-    console.log("🗄️ Stored Images:", storedImages);
-
-    // Step 3️⃣: Run analysis (only after all images saved)
     updateLoadingMessage("📊 Running analysis...");
-    await runAnalysis(lat, lon, kmzName, map, storedImages);
+    await runAnalysis(lat, lon, kmzName, map, images); // use direct images
 
-    // Step 4️⃣: Complete message
     updateLoadingMessage("✅ Analysis Complete!");
-    setTimeout(() => {
-      hideLoadingModal();
-    }, 1000);
-
+    setTimeout(hideLoadingModal, 1000);
   } catch (err) {
     console.error("❌ Error during analysis:", err);
     updateLoadingMessage("❌ Analysis Failed. Please try again.");
-    setTimeout(() => hideLoadingModal(), 1500);
+    setTimeout(hideLoadingModal, 1500);
   }
 });
-
-
-
